@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T06:34:50.588Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="p0OnJrT-t_T18a7TXsoh" version="15.3.3" type="github"><diagram id="lwz_ERbqtApTmb-mG5vc" name="Page-1">7VnZcuMoFP0aPTplLWh59JZM92QqmUpNdfdTCktIZloSDsLbfP2AhGwJ4VhZVOmaTPIQOCyCe869XIhhz7L9DYXr1R8kQqlhjaO9Yc8NyzLNscX/CORQIcC2KyChOJKdTsAD/gdJcCzRDY5Q0erICEkZXrfBkOQ5ClkLg5SSXbtbTNL2V9cwQR3gIYRpF/2GI7aqUN/yTvhvCCer+sumG1QtGaw7y50UKxiRXQOyF4Y9o4SwqpTtZygVxqvtUo27PtN6XBhFOesz4H6TfXu6vZnuyJ/x/inI8of0buRWs2xhupEblotlh9oCfN1rUQwPKc4jRG3Dnu5WmKGHNQxFw44zz7EVy1JeM3lxSTa8Z3S7PAIw/JlQgd5tGJ8GSbyo+DYBL6flQsdiJhiuNhTdiGnnDgfWBOcM0cWWb7WQnWKcpjOSElqu0o4g8uNQTMko+YkaLW7oo2XMWxIKI8xnaLR5CLpIzNY1prTvFlGG9g1IGvcGkQwxeuBdZKttS6IPR+1X9d1JN2bdZ9XQjBVIEEqtJse5T3TygmT0Bex6l9kV+8Nc7rdwidJ7UmCGSc6bloQxknHL1B0mKU5EAyMK2bU+sn0iQsBVnJJduIKUXZF8JPzjkaIYccMKsfTj9jmmXs77ANwGPal1hmI20DDrpkzYh/BdNil2nzakbhhVDjfhHUx/vT81lhG0Nt0JtON4CbxxE3IT+bf82vIILFwjAMZ0LAr+3JgsjAWvTozArvvyjS7V8RyrFlzDijw5P0yRW4vnnIhY0hKFhKDUa4iEvDRCznAUic9ogxmtIthLAtJ7yMxVQgjo6szTyMweSmZ1COtzPkSQwYIRes6kDQ5fGwSW5W83CMRA/GqDQPnzTuw4bXZ4MtONAqaGHn8weswuPQvfmHiG7wj3830j4IgnvHFiigIPXL5bFhwjuDYWjnBR3r9CJn7pvb4x9T67JzqgzbWnifhj3WE+GNf2ZVds22ogJ/zYk9hUsyxXQ4ylIcYdjBjn7FncOe56H85u+3Cuz9g+vs3P4Zk4gUWfiWg6d9TqTuVP7fSmEuBN/8Odvsf9DOXRRFx0hbFTWBQ4VBnjubi8WJvCenxAs1qQDQ3RPaKYrxlRwQTOE97q80Y+NkHsTCPaY/ZdmP8KyNoP+U1Rnu8lM2XlUFdybpdqEE9Ba+BHCbgWqIHT4LLWGn1czSXmq531iKnVLnvkQShqvRZ0ldRQCtAIpcYoSiHD2/Ybg0498gv3QvANoSp5oq0KUHJajWq+CSgTHQfWx5yaqkj+1Ym44OCh0a10yOKZBQfKdzyg+EY148lTjjZ9g/Porr9KYP46n87+j4SdSGipugDdVNcZKBBuf3/8Ht+NoseHL3+Pb/+ylguAR5pEd/jkZ4gnpg4HGqbO0gLAGb9vHlC6uPMeyY+WF+sjcx9gTJzy8gKMqWn417IQgDItKq82nzsbepvYPEVsTk+xDRYEetyAfrVk6Jj/PJ8Mme1E6FIapE1GLqZAzwXWnhnQRyU8wFS0CF6Z8AA1cxoPk/C4lvJ+4L5vwqPlssdF9L+b77wt1imvCpbmVUEn71c8vPLq6X9+FfOn/5zai38B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-26T08:29:40.740Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="lYhmMEqJyY5Q-wUOsvdy" version="15.3.3" type="github">
+  <diagram id="lwz_ERbqtApTmb-mG5vc" name="Page-1">
+    <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="110" width="130" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;hachureGap=4;pointerEvents=0;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="330" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-9" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ffb570&quot;&gt;&lt;b&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="340" y="225" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-11" value="规划管理生产用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="270" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-13" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;规划管理服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-16" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.018;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PumWqLGBwoQfxq9mnSlO-13" target="PumWqLGBwoQfxq9mnSlO-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PumWqLGBwoQfxq9mnSlO-17" value="&lt;b&gt;JDBC&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_XfO-d_SIj0LU2bE5i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_XfO-d_SIj0LU2bE5i-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;规划大屏展示服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="555" y="340" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK_XfO-d_SIj0LU2bE5i-3" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vK_XfO-d_SIj0LU2bE5i-1" target="PumWqLGBwoQfxq9mnSlO-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vK_XfO-d_SIj0LU2bE5i-4" value="&lt;b&gt;JDBC&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
